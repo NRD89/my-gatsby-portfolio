@@ -144,8 +144,8 @@ const ProjectEcomm = ({ data }) => (
 			<h1>MERN Ecommerce</h1>
 			<div className="info">
 				<Button>
-					<ButtonLink href="https://mern-ecommerce.herokuapp.com" target="_blank"><i className="fas fa-desktop"></i> View Project</ButtonLink>
-					<ButtonLink href="https://github.com/6-11-a/group-project2" target="_blank"><i className="fas fa-code"></i> View Code</ButtonLink>
+					<ButtonLink href="https://mern-ecommerce.herokuapp.com" target="_blank" rel="noopener"><i className="fas fa-desktop"></i> View Project</ButtonLink>
+					<ButtonLink href="https://github.com/6-11-a/group-project2" target="_blank" rel="noopener"><i className="fas fa-code"></i> View Code</ButtonLink>
 				</Button>
 			</div>
 			<p>This was my final group project from the Woz U software developer program, where
@@ -161,7 +161,7 @@ const ProjectEcomm = ({ data }) => (
 				<li>Include user registration and login</li>
 			</ul>
 
-			<p>Upon completing this project, I obtained new skills in e-commerce development. The most significant takeaways were (1) leveraging local storage as a shopping cart so the user can exit and not lose the items in their shopping cart and (2) utilizing Axios to perform HTTP requests to grab data from the database and using JavaScript’s .map() method to render it to the front end.</p>
+			<p>Upon completing this project, I obtained new skills in e-commerce development. The most significant takeaways were leveraging local storage as a shopping cart and utilizing Axios to perform HTTP requests. This was done so the user can exit and not lose the items in their shopping cart and to grab product data from the database using JavaScript’s .map() method to render it to the front end.</p>
 			<div class="technologies">
 				<h3>Technologies</h3>
 				<Icons>

@@ -92,9 +92,9 @@ const ProjectAfvc = ({ data }) => (
             }} sizes={data.codin.sizes} />
 			</ProjectImage>
 			<h1>Future Projects</h1>
-			<p>Currently I am working with a group of talented individuals on a project that will help solve a need in the realm of software. Although I cannot disclose the premise of this project, I can say it will be a mobile solution and be built as a PWA.</p>
-            <p>In the midst of the previously mentioned project, I am also learning how to leverage WordPress theme development. This tried and true opensource software has stood the test of time, it is currently being utilized as 26% of all websites on the net. So to me this was a no brainer that I had to jump on the band wagon.</p>
-            <p>These are just a few of the things I'm working on right now but for the future, I intend to keep solidifying my knowledge and skillset by keeping up with the ever expanding world of web technologies.</p>
+			<p>Currently I am working with a group of talented individuals on a project that will help solve a need in the realm of software. Although I cannot disclose the premise of this project, I can say it will be a mobile solution built as a PWA.</p>
+            <p>In the midst of the previously mentioned project, I am also learning how to leverage WordPress theme development. This tried and true opensource software has stood the test of time; it is currently being utilized as 26% of all websites on the net. To me, this was a no brainer that I had to jump on the band wagon.</p>
+            <p>These are just a few of the things I'm working on right now. For the future, I intend to keep solidifying my knowledge and skillset by keeping up with the ever expanding world of web technologies.</p>
 			<div class="technologies">
 				<h3>Technologies</h3>
 				<Icons>

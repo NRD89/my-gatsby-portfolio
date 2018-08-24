@@ -54,7 +54,7 @@ const IndexPage = ({ data }) => (
       <div style={{marginLeft: '15px'}}>
         <h1>Nathan Dalton</h1>
         <p>Front End Developer<br></br>
-        &amp; Web Designer</p>
+        &amp; Designer</p>
         <StyledLink to="/portfolio">Recent Projects</StyledLink>
       </div>
       <BackgroundImg>

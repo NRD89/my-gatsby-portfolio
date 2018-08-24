@@ -145,7 +145,7 @@ const ProjectAfvc = ({ data }) => (
 			<h1>AFVC Optometry</h1>
 			<div className="info">
 				<Button>
-					<ButtonLink href="https://afvc.vision" target="_blank"><i className="fas fa-desktop" style={{}}></i> View Project</ButtonLink>
+					<ButtonLink href="https://afvc.vision" target="_blank" rel="noopener"><i className="fas fa-desktop" style={{}}></i> View Project</ButtonLink>
 				</Button>
 			</div>
 			<p>This was a freelance project where I was asked to build a website for a local optometry office. The main goal for the website was to draw in more clientele and provide a space for the client to blog. After thorough discussion with the doctor, we came up these criteria for the website:</p>
@@ -158,7 +158,7 @@ const ProjectAfvc = ({ data }) => (
 				<li>Providing a New Patient Appointment Form</li>
 				<li>Google Maps</li>
 			</ul>
-			<p>Working on this project I was given a basic logo and was responsible for the rest of the design of the website. The client provided me with some links to compare to, upon research I found that most of the sites were mobile friendly but not optimized for mobile. In response to this, I utilized Gulp to optimize images and minify files. During the design process I used Photoshop to edit the provided photos and implemented CSS Grid for the image gallery to create a mosaic. To give a more unique design to the website I made the hero image dynamic; I learned how to achieve this by watching Traversy Media’s “Awesome Split Screen Slider Using CSS3 &amp; JavaScript” video and making modifications. </p>
+			<p>Working on this project I was given a basic logo and was responsible for the rest of the design of the website. The client provided me with some links to compare to, upon research, I found that most of the sites were mobile friendly but not optimized for mobile. In response to this, I utilized Gulp to optimize images and minify files. During the design process I used Photoshop to edit the provided photos, and also, implemented CSS Grid for the image gallery to create a mosaic. To give a more unique design to the website I made the hero image dynamic; I learned how to achieve this by watching Traversy Media’s “Awesome Split Screen Slider Using CSS3 &amp; JavaScript” video and making modifications. </p>
 			<div class="technologies">
 				<h3>Technologies</h3>
 				<Icons>
