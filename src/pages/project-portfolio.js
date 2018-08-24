@@ -138,12 +138,12 @@ const ProjectAfvc = ({ data }) => (
 			<h1>My Portfolio</h1>
 			<div className="info">
 				<Button>
-					<ButtonLink href="https://github.com/6-11-a/group-project2" target="_blank"><i className="fas fa-code"></i> View Code</ButtonLink>
+					<ButtonLink href="https://github.com/NRD89/my-gatsby-portfolio" target="_blank" rel="noopener"><i className="fas fa-code"></i> View Code</ButtonLink>
 				</Button>
 			</div>
-			<p>I started off building my portfolio site in HTML and CSS, however, I wanted to experiment with a static site generator with PWA qualities. I came across a React based static site generator called GatsbyJS which provides data and code splitting automatically. Essentially it adds only critical aspects of the site to accomplish the fastest speed possible. Since I was already familiar with react it was easy for me to transfer my files over. To aid in the ease of this process, I used styled components and inline CSS. Although, I was unfamiliar with styled components I learned it through reading the documentation and found it to have a pretty low learning curve (which was a relief).</p>
-			<p>A personal goal of mine was to have optimal user experience and page performance. I provided these qualities by adding smooth page transitions and image optimization, Gatsby plugins such as gatsby-image and gatsby-plugin-sharp allows developers a farely easy way (a bit difficult if you aren't familiar with GraphQL and positioning images) to lazy-load and greatly optimize images.</p>
-			<p>Overall, working with Gatsby was a pleasant experience. Even though there were quite a bit of issues with versioning and a bit of frustration with gatsby-image, I would definitely recommend learning Gatsby for building your next static site!</p>
+			<p>I started off building my portfolio site in HTML and CSS, however, I wanted to experiment with a static site generator with PWA qualities. I came across a React based static site generator called Gatsby which provides data and code splitting automatically. Essentially it adds only critical aspects of the site to accomplish the fastest speed possible. Since I was already familiar with React it was easy for me to transfer my files over. To aid in the ease of this process, I used Styled Components and inline CSS. Although, I was unfamiliar with Styled Components I learned it through reading the documentation and found it to have a pretty low learning curve (which was a relief).</p>
+			<p>A personal goal of mine was to have optimal user experience and page performance. I provided these qualities by adding smooth page transitions and image optimization. Gatsby plugins such as gatsby-image and gatsby-plugin-sharp allows developers a fairly easy way (a bit difficult if you aren't familiar with GraphQL and positioning images) to lazy-load and greatly optimize images.</p>
+			<p>Overall, working with Gatsby was a pleasant experience. Athough, there were some issues with versioning and a bit of frustration with gatsby-image, I would definitely recommend learning Gatsby for building your next static site!</p>
 			<div class="technologies">
 				<h3>Technologies</h3>
 				<Icons>

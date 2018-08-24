@@ -115,7 +115,7 @@ const SecondPage = ({data}) => (
         }} sizes={data.background.sizes} alt="Headshot of Nathan Dalton" />
         </h1>
         <AboutInfo>
-          <p>Hi I'm Nathan Dalton, I'm a Front End Developer with an eye for design. I currently work as a freelancer based in Riverside, California. Although I love freelancing, I am not opposed to an in-house or remote position at the right agency or company. So whether your a prospective client, employer or friend don't hesitate to <StyledLink to="/contact">contact me</StyledLink>.</p>
+          <p>Hi I'm Nathan Dalton, I'm a Front End Developer with an eye for design. I currently work as a freelancer based in Riverside, California. Although I love freelancing, I am not opposed to an in-house or remote position at the right agency or company. So whether you are a prospective client, employer or friend don't hesitate to <StyledLink to="/contact">contact me</StyledLink>.</p>
         </AboutInfo>
       </AboutContainer>
       <BoxContainer>
